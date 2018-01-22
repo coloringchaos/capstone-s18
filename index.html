@@ -1,0 +1,7 @@
+---
+layout: default
+---
+<h1 class="headline indent">{{site.title}}</h1>
+{% for post in site.posts %}
+<h2 class="link-list"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+{% endfor %}

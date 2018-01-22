@@ -1,5 +1,5 @@
 ---
-title:
+title: Creative Inquiry
 layout: post
 permalink: /precedents
 ---

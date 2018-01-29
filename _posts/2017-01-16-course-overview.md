@@ -49,7 +49,7 @@ Although your Capstone project is mostly self-directed, there are a few mandator
 |---|---|---|
 |  <span class="underlined">*Week 6 - Feb 19*</span> | &nbsp;&nbsp;|Portfolio  |
 |  <span class="underlined">*Week 9 - Mar 12*</span> | &nbsp;&nbsp;|Research Presentation |
-|  <span class="underlined">*Week 13 - Apr 9*</span> | &nbsp;&nbsp;|Prototype Presentation  |
+|  <span class="underlined">*Week 13 - Apr 16*</span> | &nbsp;&nbsp;|Prototype Presentation  |
 |  <span class="underlined">*Week 16 - Apr 30*</span> | &nbsp;&nbsp;|Capstone 2 Proposal  |
 |  <span class="underlined">*Finals Week*</span> | &nbsp;&nbsp;|Final Presentation (to faculty and guests)  |
 
@@ -97,7 +97,7 @@ At the end of the semester, you must comprehensively document your progress up t
 A full list of CU’s academic policies can be found online at [colorado.edu/policies](http://www.colorado.edu/policies).
 
 ## Honor Code
-All work/ideas/code must be original and created for this class. All code should be written from scratch by you - meaning that although some code is repeatable you should never copy and paste code from other sources and then find and replace your content into it. 
+All work/ideas/code must be original and created for this class. All code should be written from scratch by you - meaning that although some code is repeatable you should never copy and paste code from other sources and then find and replace your content into it.
 
 All students of the University of Colorado at Boulder are responsible for knowing and adhering to the academic integrity policy of this institution. Violations of this policy may include: cheating, plagiarism, aid of academic dishonesty, fabrication, lying, bribery, and threatening behavior. All incidents of academic misconduct shall be reported to the Honor Code Council (honor@colorado.edu; 303-735-2273). Students who are found to be in violation of the academic integrity policy will be subject to both academic sanctions from the faculty member and non-academic sanctions (including but not limited to university probation, suspension, or expulsion). The [Student Honor Code](https://www.colorado.edu/policies/student-honor-code-policy) can be found online.
 

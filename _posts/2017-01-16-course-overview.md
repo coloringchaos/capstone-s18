@@ -48,7 +48,7 @@ Although your Capstone project is mostly self-directed, there are a few mandator
 
 |---|---|---|
 |  <span class="underlined">*Week 6 - Feb 19*</span> | &nbsp;&nbsp;|Portfolio  |
-|  <span class="underlined">*Week 9 - Mar 12*</span> | &nbsp;&nbsp;|Research Presentation |
+|  <span class="underlined">*Week 9 - Mar 12*</span> | &nbsp;&nbsp;|Case Studies |
 |  <span class="underlined">*Week 13 - Apr 16*</span> | &nbsp;&nbsp;|Prototype Presentation  |
 |  <span class="underlined">*Week 16 - Apr 30*</span> | &nbsp;&nbsp;|Capstone 2 Proposal  |
 |  <span class="underlined">*Finals Week*</span> | &nbsp;&nbsp;|Final Presentation (to faculty and guests)  |

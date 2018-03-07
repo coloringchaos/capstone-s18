@@ -38,6 +38,8 @@ You must cite absolutely every thing that you reference in your case study.
 
 Don't worry too much about the suggested character count, you should be within 400 characters of the suggested total for each section. In total, each individual case study will be roughly 3 pages. [Here is a suggested layout](/capstone-s18/assets/CaseStudyLayout.pdf).
 
+<br>
+
 ### <span class="due">Due March 12th</span>
 
 Please submit your pdfs on Canvas.

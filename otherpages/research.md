@@ -13,7 +13,7 @@ This type of research study will not typically answer a question completely, but
 
 Spend some time clarifying your **purpose** for your Capstone project. Let the case studies you choose be informed by your purpose statement.
 
-**You must conduct 4 individual case studies and submit a 2-3 page pdf summary for each.**
+**You must conduct 4 individual case studies and pdf summary for each.**
 
 <br>
 
@@ -35,6 +35,8 @@ Clarify your impressions of the case study and explain how it connects to your c
 You must cite absolutely every thing that you reference in your case study.
 
 <br>
+
+Don't worry too much about the suggested character count, you should be within 400 characters of the suggested total for each section. In total, each individual case study will be roughly 3 pages.
 
 ### <span class="due">Due March 12th</span>
 
